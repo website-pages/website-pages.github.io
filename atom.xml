@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://website-pages.github.io</id>
+    <title>wzx</title>
+    <updated>2022-04-19T13:22:48.924Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://website-pages.github.io"/>
+    <link rel="self" href="https://website-pages.github.io/atom.xml"/>
+    <subtitle>wzx个人网站&amp;博客</subtitle>
+    <logo>https://website-pages.github.io/images/avatar.png</logo>
+    <icon>https://website-pages.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, wzx</rights>
+    <entry>
+        <title type="html"><![CDATA[2022开启新征程]]></title>
+        <id>https://website-pages.github.io/post/hello-2022/</id>
+        <link href="https://website-pages.github.io/post/hello-2022/">
+        </link>
+        <updated>2022-01-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>2022年来啦！新年新气象！来看看网站有什么变化吧！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>2022年来啦！新年新气象！来看看网站有什么变化吧！</p>
+</blockquote>
+<!-- more -->
+<h2 id="博客清空公告">博客清空公告</h2>
+<p>除必要文章外，本网站的其他所有文章均已清空。望周知！</p>
+<h2 id="访问机制">访问机制</h2>
+<p>除特殊文章外，本网站的文章均公开发布。</p>
+<h2 id="功能更新">功能更新</h2>
+<ul>
+<li>新增文章封面</li>
+<li>网站页面美化更新</li>
+<li>页面左侧加设文章目录</li>
+<li>评论加载优化</li>
+<li>新增看板娘（仅限电脑端）</li>
+<li>新增像素时钟（仅限电脑端）</li>
+<li>新增点击特效</li>
+</ul>
+<p>更多功能等你体验！</p>
+<h2 id="特别提示">特别提示</h2>
+<p>本网站内的文章更新可能会有延迟，延迟时间取决于用户所在的地区。<br>
+由于国内备案机制，文章在24小时后才能成功发布。给您带来不便，敬请谅解！</p>
+<h2 id="关于打赏">关于打赏</h2>
+<p>本网站由于运营需要，会寻求一些资金。部分资金来自于用户打赏。本网站采用自愿打赏机制，打赏金额由您决定，网站开发者不会进行任何干预！我们会继续完善网站浏览体验！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网站投稿说明]]></title>
+        <id>https://website-pages.github.io/post/submiting-instructions/</id>
+        <link href="https://website-pages.github.io/post/submiting-instructions/">
+        </link>
+        <updated>2021-04-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>您可以向本网站投稿。在投稿前，请认真阅读此说明。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>您可以向本网站投稿。在投稿前，请认真阅读此说明。</p>
+</blockquote>
+<!-- more -->
+<p>您向本网站的投稿需要遵守您所在国家/地区的相关法律法规。<br>
+除此之外，您应当熟知您所在国家/地区与知识产权有关的法律。</p>
+<h2 id="投稿规定">投稿规定</h2>
+<p>（1）内容真实可信，并非谣言；<br>
+（2）未触犯相关法律法规；<br>
+（3）未侵犯其他公民/组织/社会团体的合法权利；<br>
+（4）不含令人不适的内容（如暴力、色情等）；<br>
+（5）非无意义言论（此项会根据具体情况判断）。</p>
+<h2 id="投稿文件格式">投稿文件格式</h2>
+<p>（1）Microsoft Office Word文件（推荐），文件后缀：“.doc”或“.docx；<br>
+（2）Microsoft Office Word模板文件，文件后缀：“.dot”或“.dotx”；<br>
+（3）文本文档文件，文件后缀：“.txt”；<br>
+（4）PDF文档，文件后缀：“.pdf”；<br>
+（5）MarkDown文档，文档格式：MarkDown，文件后缀：“.md”。</p>
+<h2 id="投稿附加内容">投稿附加内容</h2>
+<p>投稿文件末尾处需要包含以下内容（请使用“%”与正文分隔，以下每项各占一行）：<br>
+（1）投稿人姓名及性别，这个选项仅为方便我们在文章发布后使用电子邮件回复您时方便称呼；<br>
+（2）内容来源（如：来源于网络、原创等）；<br>
+（3）文章分类（请参考<a href="https://website-pages.github.io/tags">标签</a>）；<br>
+（4）您的联系方式（推荐使用电子邮件）；<br>
+（5）您是否愿意我们发布文章时标注您的姓名（或缩写）。</p>
+<ul>
+<li>示例：</li>
+</ul>
+<blockquote>
+<p>这是标题<br>
+这里是正文内容。<br>
+这里是正文内容。<br>
+%<br>
+李明<br>
+来源于网络<br>
+网站公告<br>
+unpu123456@hotmail.com<br>
+不愿意</p>
+</blockquote>
+<h2 id="投稿其他注意事项">投稿其他注意事项</h2>
+<p>（1）我们可能会就您的投稿进行删改；<br>
+（2）投稿文件的语言需要使用<strong>中文（简体，中国大陆）</strong>，其他语言需要经过翻译转换后再进行投稿；<br>
+（3）投稿文件中可以含有少量图片，但不要含有视频。</p>
+<p><strong>⚠️注意：一切标有“用户投稿”标签的文章均由其他用户投稿上传至本网站，均不代表本网站的观点！</strong><br>
+<strong>温❤️提示：投稿字数推荐为200-1000字，感谢您的理解与支持🙏！</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cookies说明]]></title>
+        <id>https://website-pages.github.io/post/cookies-instructions/</id>
+        <link href="https://website-pages.github.io/post/cookies-instructions/">
+        </link>
+        <updated>2021-01-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>Cookies是什么？它有什么用处？我们为什么使用Cookies？</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>Cookies是什么？它有什么用处？我们为什么使用Cookies？</p>
+</blockquote>
+<!-- more -->
+<h2 id="cookies-是什么">Cookies 是什么？</h2>
+<p>Cookies 是指访问网站时，通过浏览器存储在您的电脑或设备的小量数据（内存文件）。这是所有网站的常见做法，使用 Cookies 来记住您的偏好并启用基于 Cookies 的功能（比如分析工具）来改善您的体验，无论是单次访问（通过“会话 Cookie”）还是多次重复访问（使用“持久性 Cookie”）。</p>
+<h2 id="我们的-cookies">我们的 Cookies</h2>
+<p>我们出于多种目的而使用 Cookies 。</p>
+<ul>
+<li>如果您通过表单提交数据，例如：留言表单、评论表单、或博客订阅，那么 Cookies 将会记住您的信息，有助于将来的相关操作。</li>
+<li>如果您通过在线聊天插件提交信息，Cookies 会记住您的用户详细信息，以便您下次返回这个网站时可以继续对话。</li>
+<li>如果你通过在线商城购买商品，Cookies 允许你添加商品到你的购物车，根据你的设备展示正确的页面，在你订购时验证你的信息，并允许订单的付款。</li>
+</ul>
+<h2 id="第三方-cookies">第三方 Cookies</h2>
+<p>在特殊情况下，我们也会使用信任的第三方（如 Google Analytics）提供的 Cookies。第三方的分析是用于跟踪和评估这个网站的使用情况 ，以便我们可以为您提供更好的内容。</p>
+<h2 id="管理-cookies">管理 Cookies</h2>
+<p>当您第一次访问该网站时，您会看到一条消息，通知您正在使用cookies和类似技术。点击“全部接受”，即表示您理解并同意本 Cookie 条款中所述的这些技术的使用。通过点击“设置”，您可以选择接受或拒绝特定的cookies。</p>
+<p>您可以随时取消使用 Cookie。大多数浏览器都可以禁用Cookies。你也可以在你的浏览器设置中删除 Cookies。请注意，禁用Cookies 可能会影响此网站和您访问的许多其他网站的功能。因此，建议您不要禁用Cookies 。</p>
+<p>有关如何管理、禁用或删除最常用浏览器的 Cookies 数据，请参阅以下链接：</p>
+<ul>
+<li><a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies">IE浏览器</a></li>
+<li><a href="https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en">谷歌浏览器</a></li>
+<li><a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">火狐浏览器</a></li>
+<li><a href="https://support.apple.com/en-gb/guide/safari/sfri11471/mac">Safari 浏览器</a></li>
+</ul>
+<p>要了解如何管理和删除 Cookies，请访问 aboutcookies.org。有关对您的你的网络浏览活动使用于提供你可能感兴趣的广告的更多详细信息，您可以访问以下网站：</p>
+<ul>
+<li>networkadvertising.org</li>
+<li>optout.aboutads.info</li>
+<li>youradchoices.com</li>
+<li>youronlinechoices.eu</li>
+</ul>
+<p><strong>如果本条款发生变更，我们会在网站公告处提醒。感谢您的理解与支持🙏！</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网站评论规则]]></title>
+        <id>https://website-pages.github.io/post/comment-rules/</id>
+        <link href="https://website-pages.github.io/post/comment-rules/">
+        </link>
+        <updated>2021-01-10T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>📢在您使用本网站的评论系统之前，请认真阅读文章并遵守相关规则。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>📢在您使用本网站的评论系统之前，请认真阅读文章并遵守相关规则。</p>
+</blockquote>
+<!-- more -->
+<h2 id="评论规则">评论规则</h2>
+<p>首先，您需要遵守您所在国家/地区的相关法律法规。</p>
+<p>除此以外，在使用本网站的评论系统时：<br>
+（1）请勿辱骂他人；<br>
+（2）请勿发布无意义言论，浪费服务器资源；<br>
+（3）严禁使用评论区进行广告宣传；<br>
+（4）请勿发布引起他人不适的内容；<br>
+（5）评论请使用<strong>中文（简体，中国大陆）</strong>，其他语言请通过翻译转换后再进行评论。</p>
+<p>⚠️违反以上规则者，我们会视情况予以处罚（如封禁IP地址等）！</p>
+<h2 id="使用方法">使用方法</h2>
+<p>本网站使用Gitalk评论系统，需要使用Github账号进行登录。</p>
+<ul>
+<li>注册Github账号：<a href="https://github.com">点击此处</a></li>
+<li>使用Github账号登录：点击评论区按钮完成登录。<br>
+（备注：国内访问速度较慢，可能需要多次刷新才能访问。）</li>
+</ul>
+<p><strong>温❤️提示：本网站评论系统使用Markdown格式，推荐评论字数为10-100字。如果您想要发布的内容超过200字，请转到<a href="https://website-pages.github.io/post/submiting-instructions">网站投稿说明</a>，我们会将您的内容发布在正文。感谢您的理解与支持🙏！</strong></p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于本站]]></title>
+        <id>https://website-pages.github.io/post/about/</id>
+        <link href="https://website-pages.github.io/post/about/">
+        </link>
+        <updated>2021-01-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的网站，很高兴遇见你！🤝</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的网站，很高兴遇见你！🤝</p>
+</blockquote>
+<!-- more -->
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>本网站已经过HTTPS加密，是一个非营利性网站。<br>
+网站中您可以进行打赏，金额由您自己决定。我们会使用它来完善网站浏览体验！感谢您的支持🙏！<br>
+温❤️提示：Windows端使用Chrome浏览器访问效果更佳😋！</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>本网站的博主为wzx，会持续更新有趣的内容😀。<br>
+📢部分博文为转载或用户上传，均不代表博主观点！</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>喜欢听歌，不定期更新下博客。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>邮箱1：unpu123456@hotmail.com<br>
+邮箱2：unpu123456@outlook.com<br>
+邮箱3：unknownprivateuser@yeah.net<br>
+微信二维码：<img src="https://website-pages.github.io/post-images/1650289944425.jpg" alt="微信二维码" loading="lazy"></p>
+<h2 id="️注意事项">⚠️注意事项</h2>
+<p>本网站使用Cookies来提升浏览体验，有关Cookies请见<a href="https://website-pages.github.io/post/cookies-instructions">Cookies说明</a>。<br>
+在本网站内发布评论请遵守<a href="https://website-pages.github.io/post/comment-rules">网站评论规则</a>。<br>
+您也可以向网站投稿，具体要求请见<a href="https://website-pages.github.io/post/submiting-instructions">网站投稿说明</a>。</p>
+]]></content>
+    </entry>
+</feed>
