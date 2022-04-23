@@ -2112,9 +2112,8 @@ p > code {
     .next-md-body a:hover, .friends-box a:hover {
       color: #fab005;
       border-bottom-color: #fab005;
-    }
-    .nav-toggle .line {
-      background-color:  !important;
+    }.nav-toggle .line {
+      background-color: #e9ecef !important;
     }
       .nav-item a {
         color:  #555;
@@ -2161,7 +2160,7 @@ p > code {
       color: #12b886;
       border-bottom-color: #12b886;
     }.reward-btn-text {
-        background-color: #fa5252cc !important;
+        background-color: #f03e3ecc !important;
       }.bg-color {
       background-color: #e9ecefcc;
     }
