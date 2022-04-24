@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://website-pages.github.io</id>
+    <id>http://localhost:4000</id>
     <title>wzx</title>
-    <updated>2022-04-24T11:57:54.807Z</updated>
+    <updated>2022-04-24T12:27:16.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://website-pages.github.io"/>
-    <link rel="self" href="https://website-pages.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>wzx个人网站&amp;博客</subtitle>
-    <logo>https://website-pages.github.io/images/avatar.png</logo>
-    <icon>https://website-pages.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, wzx</rights>
     <entry>
         <title type="html"><![CDATA[网站使用说明【图文】]]></title>
-        <id>https://website-pages.github.io/post/using-instructions/</id>
-        <link href="https://website-pages.github.io/post/using-instructions/">
+        <id>http://localhost:4000/post/using-instructions/</id>
+        <link href="http://localhost:4000/post/using-instructions/">
         </link>
         <updated>2022-04-21T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2022开启新征程]]></title>
-        <id>https://website-pages.github.io/post/hello-2022/</id>
-        <link href="https://website-pages.github.io/post/hello-2022/">
+        <id>http://localhost:4000/post/hello-2022/</id>
+        <link href="http://localhost:4000/post/hello-2022/">
         </link>
         <updated>2022-01-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -42,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网站投稿说明]]></title>
-        <id>https://website-pages.github.io/post/submiting-instructions/</id>
-        <link href="https://website-pages.github.io/post/submiting-instructions/">
+        <id>http://localhost:4000/post/submiting-instructions/</id>
+        <link href="http://localhost:4000/post/submiting-instructions/">
         </link>
         <updated>2021-04-20T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -57,8 +57,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Cookies说明]]></title>
-        <id>https://website-pages.github.io/post/cookies-instructions/</id>
-        <link href="https://website-pages.github.io/post/cookies-instructions/">
+        <id>http://localhost:4000/post/cookies-instructions/</id>
+        <link href="http://localhost:4000/post/cookies-instructions/">
         </link>
         <updated>2021-01-25T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -72,8 +72,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网站评论规则]]></title>
-        <id>https://website-pages.github.io/post/comment-rules/</id>
-        <link href="https://website-pages.github.io/post/comment-rules/">
+        <id>http://localhost:4000/post/comment-rules/</id>
+        <link href="http://localhost:4000/post/comment-rules/">
         </link>
         <updated>2021-01-10T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -87,8 +87,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://website-pages.github.io/post/about/</id>
-        <link href="https://website-pages.github.io/post/about/">
+        <id>http://localhost:4000/post/about/</id>
+        <link href="http://localhost:4000/post/about/">
         </link>
         <updated>2021-01-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
