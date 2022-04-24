@@ -2164,6 +2164,12 @@ p > code {
       }.bg-color {
       background-color: #e9ecefcc;
     }
+    .gemini .blog-header, .gemini .sidebar-wrapper, .gemini .article-wrapper, .gemini .post, .gemini .page, .gemini .section, .gemini .section-box, .gemini .sidebar-box, .gemini .friends-section {
+      border-radius: 10px;
+    }
+    .pisces .blog-header, .pisces .sidebar-wrapper, .pisces .article-wrapper, .pisces .section, .pisces .sidebar-box, .pisces .friends-section {
+      border-radius: 10px;
+    }
     .site-meta {
       background: #212529 !important;
     }
@@ -2181,15 +2187,15 @@ p > code {
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
-      cursor: default;
+      cursor: url('/media/curs/Normal.cur'), default;
     }a {
-      cursor: pointer;
+      cursor: url('/media/curs/Link.cur'), pointer !important;
     }input, textarea, code {
-      cursor: text;
+      cursor: url('/media/curs/Text.cur'), text !important;
     }code > span.copy-code {
-      cursor: pointer;
+      cursor: url('/media/curs/Working.cur'), text !important;
     }.post img {
-      cursor: zoom-in;
+      cursor: url('/media/curs/Up.cur'), zoom-in !important;
     }.post img {
-      cursor: zoom-out;
+      cursor: url('/media/curs/Down.cur'), zoom-out !important;
     }
