@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://website-pages.github.io</id>
     <title>wzx</title>
-    <updated>2022-04-24T12:45:29.223Z</updated>
+    <updated>2022-04-25T13:13:07.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://website-pages.github.io"/>
     <link rel="self" href="https://website-pages.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://website-pages.github.io/images/avatar.png</logo>
     <icon>https://website-pages.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, wzx</rights>
+    <entry>
+        <title type="html"><![CDATA[网站已被bing搜索收录]]></title>
+        <id>https://website-pages.github.io/post/successfully-into-bing/</id>
+        <link href="https://website-pages.github.io/post/successfully-into-bing/">
+        </link>
+        <updated>2022-04-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>本网站已经被bing搜索收录啦！来看看详细信息吧！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>本网站已经被bing搜索收录啦！来看看详细信息吧！</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网站使用说明【图文】]]></title>
         <id>https://website-pages.github.io/post/using-instructions/</id>
