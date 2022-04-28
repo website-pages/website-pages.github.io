@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://website-pages.github.io</id>
     <title>wzx</title>
-    <updated>2022-04-27T10:50:33.384Z</updated>
+    <updated>2022-04-28T11:16:15.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://website-pages.github.io"/>
     <link rel="self" href="https://website-pages.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://website-pages.github.io/images/avatar.png</logo>
     <icon>https://website-pages.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, wzx</rights>
+    <entry>
+        <title type="html"><![CDATA[媒体分享]]></title>
+        <id>https://website-pages.github.io/post/media-share/</id>
+        <link href="https://website-pages.github.io/post/media-share/">
+        </link>
+        <updated>2022-04-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>在您投稿时，可能会想要分享媒体（图片/音乐/视频）。那么应该怎么做呢？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在您投稿时，可能会想要分享媒体（图片/音乐/视频）。那么应该怎么做呢？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网站已被bing搜索收录]]></title>
         <id>https://website-pages.github.io/post/successfully-into-bing/</id>
@@ -60,7 +71,7 @@
         <id>https://website-pages.github.io/post/submiting-instructions/</id>
         <link href="https://website-pages.github.io/post/submiting-instructions/">
         </link>
-        <updated>2021-04-20T04:00:00.000Z</updated>
+        <updated>2021-06-20T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
 <p>您可以向本网站投稿。在投稿前，请认真阅读此说明。</p>
 </blockquote>
