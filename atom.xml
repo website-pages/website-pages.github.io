@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://website-pages.github.io</id>
+    <id>http://localhost:4000</id>
     <title>wzx</title>
-    <updated>2022-04-29T03:52:26.954Z</updated>
+    <updated>2022-04-29T04:03:49.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://website-pages.github.io"/>
-    <link rel="self" href="https://website-pages.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>wzx个人网站&amp;博客</subtitle>
-    <logo>https://website-pages.github.io/images/avatar.png</logo>
-    <icon>https://website-pages.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, wzx</rights>
     <entry>
         <title type="html"><![CDATA[媒体分享]]></title>
-        <id>https://website-pages.github.io/post/media-share/</id>
-        <link href="https://website-pages.github.io/post/media-share/">
+        <id>http://localhost:4000/post/media-share/</id>
+        <link href="http://localhost:4000/post/media-share/">
         </link>
         <updated>2022-04-28T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>在您投稿时，可能会想要分享媒体（图片/音乐/视频）。那么应该怎么做呢？</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网站已被bing搜索收录]]></title>
-        <id>https://website-pages.github.io/post/successfully-into-bing/</id>
-        <link href="https://website-pages.github.io/post/successfully-into-bing/">
+        <id>http://localhost:4000/post/successfully-into-bing/</id>
+        <link href="http://localhost:4000/post/successfully-into-bing/">
         </link>
         <updated>2022-04-25T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>本网站已经被bing搜索收录啦！来看看详细信息吧！</p>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网站使用说明【图文】]]></title>
-        <id>https://website-pages.github.io/post/using-instructions/</id>
-        <link href="https://website-pages.github.io/post/using-instructions/">
+        <id>http://localhost:4000/post/using-instructions/</id>
+        <link href="http://localhost:4000/post/using-instructions/">
         </link>
         <updated>2022-04-21T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>欢迎访问本网站！当您在使用本网站时遇到了一些问题，您可以尝试在此处寻找解决方法。如果这是您第一次访问本网站，我们建议您仔细阅读本文章来获取更好的浏览体验。</p>
@@ -45,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2022开启新征程]]></title>
-        <id>https://website-pages.github.io/post/hello-2022/</id>
-        <link href="https://website-pages.github.io/post/hello-2022/">
+        <id>http://localhost:4000/post/hello-2022/</id>
+        <link href="http://localhost:4000/post/hello-2022/">
         </link>
         <updated>2022-01-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>2022年来啦！新年新气象！来看看网站有什么变化吧！</p>
@@ -56,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网站投稿说明]]></title>
-        <id>https://website-pages.github.io/post/submiting-instructions/</id>
-        <link href="https://website-pages.github.io/post/submiting-instructions/">
+        <id>http://localhost:4000/post/submiting-instructions/</id>
+        <link href="http://localhost:4000/post/submiting-instructions/">
         </link>
         <updated>2021-06-20T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>您可以向本网站投稿。在投稿前，请认真阅读此说明。</p>
@@ -67,8 +67,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Cookies说明]]></title>
-        <id>https://website-pages.github.io/post/cookies-instructions/</id>
-        <link href="https://website-pages.github.io/post/cookies-instructions/">
+        <id>http://localhost:4000/post/cookies-instructions/</id>
+        <link href="http://localhost:4000/post/cookies-instructions/">
         </link>
         <updated>2021-01-25T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>Cookies是什么？它有什么用处？我们为什么使用Cookies？</p>
@@ -78,8 +78,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[网站评论规则]]></title>
-        <id>https://website-pages.github.io/post/comment-rules/</id>
-        <link href="https://website-pages.github.io/post/comment-rules/">
+        <id>http://localhost:4000/post/comment-rules/</id>
+        <link href="http://localhost:4000/post/comment-rules/">
         </link>
         <updated>2021-01-10T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>📢在您使用本网站的评论系统之前，请认真阅读文章并遵守相关规则。</p>
@@ -89,8 +89,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://website-pages.github.io/post/about/</id>
-        <link href="https://website-pages.github.io/post/about/">
+        <id>http://localhost:4000/post/about/</id>
+        <link href="http://localhost:4000/post/about/">
         </link>
         <updated>2021-01-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
