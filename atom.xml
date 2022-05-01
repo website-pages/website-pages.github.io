@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://website-pages.github.io</id>
     <title>wzx</title>
-    <updated>2022-04-29T04:09:04.088Z</updated>
+    <updated>2022-05-01T07:13:34.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://website-pages.github.io"/>
     <link rel="self" href="https://website-pages.github.io/atom.xml"/>
@@ -11,9 +11,9 @@
     <icon>https://website-pages.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, wzx</rights>
     <entry>
-        <title type="html"><![CDATA[媒体分享]]></title>
-        <id>https://website-pages.github.io/post/media-share/</id>
-        <link href="https://website-pages.github.io/post/media-share/">
+        <title type="html"><![CDATA[媒体分享说明]]></title>
+        <id>https://website-pages.github.io/post/media-share-instructions/</id>
+        <link href="https://website-pages.github.io/post/media-share-instructions/">
         </link>
         <updated>2022-04-28T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>在您投稿时，可能会想要分享媒体（图片/音乐/视频）。那么应该怎么做呢？</p>
